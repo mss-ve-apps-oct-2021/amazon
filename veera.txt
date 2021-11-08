@@ -1,0 +1,6 @@
+https://github.com/mss-cd-apps/wallmar.git-->org url
+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
+https://github.com:mss-cd-apps/wallmar.git-->ssh URL
+https://github.com/mss-cd-apps/amazon.git/amazon.git
+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
+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
